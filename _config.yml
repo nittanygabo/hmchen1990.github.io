@@ -13,7 +13,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt']
 
 # Site Settings
 title: "ICIS SIGBPS 2018"
