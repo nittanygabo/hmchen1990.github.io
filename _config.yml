@@ -48,10 +48,6 @@ navigationLinks:
  - {permalink: "/tracks/", text: "Tracks"}
  - {permalink: "/final-program/", text: "Final Program"}
  - {permalink: "/registration", text: "Registration"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "BG.jpg"
