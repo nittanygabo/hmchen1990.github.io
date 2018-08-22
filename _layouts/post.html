@@ -13,6 +13,8 @@
             <div class="st-content">
 
                 {% include top-section.html %}
+
+                {% include post.html isStaticPost=page.isStaticPost %} 
                 
                 {% include footer.html %}
 
@@ -20,6 +22,7 @@
         </div>
     </div>
 
+    {% include analytics.html %}
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
@@ -33,7 +36,8 @@
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
     <script>Waves.displayEffect();</script>
-    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>\
+    <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
+    {% include schema-event.html %}
 </body>
 
 </html>
