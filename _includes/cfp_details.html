@@ -1,0 +1,22 @@
+<!-- Begin Call for Papers-->
+<section id="blog" class="blog">
+    <div class="content-wrapper text-left">
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            <a><h4>{{ site.cfpTitle }}</h4></a>
+            <div class="col-lg-8 col-md-10 col-xs-12">
+                {% for post in site.posts %}
+                    <article class="row post">
+                        <div class="post-header">
+                            <div class="published col-md-6 col-xs-6 pull-left">
+                                <span class="caption">Posted:</span>
+                                <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
+                            </div>
+                        </div>
+                        <p class="post-body">{{ post.content }} </p>
+                    </article>
+                {% endfor %} 
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Call for Papers -->

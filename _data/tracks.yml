@@ -1,0 +1,55 @@
+- 
+  id: 1
+  name: "Integration of smart contracts in workflow systems"
+  chair: 
+    - {name: "Georg Grossmann", link: "mailto:Georg.grossmann@unisa.edu.au"}
+    - {name: "Arthur Carvalho", link: "mailto:carvalag@miamioh.edu"}
+
+- 
+  id: 2
+  name: "Service science and engineering in blockchain ecosystems"
+  chair:
+    - {name: "Jiaqi Yan", link: "mailto:jiaqiyan@nju.edu.cn"}
+    - {name: "Srikar Velichety", link: "mailto:svlchety@memphis.edu"}
+
+- 
+  id: 3
+  name: "Blockchain enabled supply chain processes"
+  chair: 
+    - {name: "Manlu Liu", link: "mailto:manluliu@saunders.rit.edu"}
+    - {name: "Benquan Yu", link: "mailto:benquan.ybq@antfin.com"}
+
+- 
+  id: 4
+  name: "Innovative Blockchain Applications in industry"
+  chair: 
+    - {name: "Hemang Subramanian", link: "mailto:hsubrama@fiu.edu"}
+    - {name: "Emily Liu", link: "mailto:rliu20@stevens.edu"}
+
+- 
+  id: 5
+  name: "Business Process Intelligence"
+  chair: 
+    - {name: "Shaokun Fan", link: "mailto:shaokun.fan@oregonstate.edu"}
+    - {name: "Marcello La Rosa", link: "mailto:Marcello.larosa@unimelb.edu.au"}
+
+- 
+  id: 6
+  name: "Business Process Innovation and Transformation"
+  chair: 
+    - {name: "Andre Ludwig", link: "mailto:andre.ludwig@the-klu.org"}
+    - {name: "Dan Ke", link: "mailto:dkeuconn@gmail.com"}
+
+- 
+  id: 7
+  name: "E-Business Service Management"
+  chair: 
+    - {name: "Zach Zhizhong Zhou", link: "mailto:zhouzhzh@sjtu.edu.cn"}
+    - {name: "Honglei Li", link: "mailto:honglei.li@northumbria.ac.uk"}
+
+- 
+  id: 8
+  name: "Intelligent Service Systems and Technologies"
+  chair: 
+    - {name: "Daning Hu", link: "mailto:hdaning@ifi.uzh.ch"}
+    - {name: "Noyan Ilk", link: "mailto:nilk@business.fsu.edu"}
