@@ -3,8 +3,8 @@
   <channel>
     <title>ICIS SIGBPS 2018</title>
     <description>SIGBPS 2018 is a workshop on Blockchain and Smart Contract</description>
-    <link>http://localhost:4000/SIGBPS/</link>
-    <atom:link href="http://localhost:4000/SIGBPS/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
@@ -62,8 +62,8 @@ supply chain, finance, education&lt;/li&gt;
 &lt;p&gt;Email organizers at &lt;a href=&quot;mailto:devfest@gdg.org.ua&quot;&gt;Zhe (Jay) Shan&lt;/a&gt; and &lt;a href=&quot;mailto:jshen@uow.edu.au&quot;&gt;Jun Shen&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Aug 2018 19:00:00 +1000</pubDate>
-        <link>http://localhost:4000/SIGBPS/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://localhost:4000/SIGBPS/blog/call-for-papers</guid>
+        <link>http://localhost:4000/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-papers</guid>
       </item>
     
   </channel>

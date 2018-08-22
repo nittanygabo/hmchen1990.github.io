@@ -259,7 +259,6 @@ DEPENDENCIES
   autoprefixer-rails
   compass
   github-pages
-  jekyll (~> 3.7)
   sass-media_query_combiner
 
 BUNDLED WITH

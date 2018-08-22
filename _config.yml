@@ -18,7 +18,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt']
 title: "ICIS SIGBPS 2018"
 email: "jayshanmis@gmail.com"
 description: "SIGBPS 2018 is a workshop on Blockchain and Smart Contract"
-baseurl: "/SIGBPS"
+baseurl: ""
 url: "favorming.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
