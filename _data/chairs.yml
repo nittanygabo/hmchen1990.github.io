@@ -1,0 +1,99 @@
+- 
+  id: 0
+  name: "Edward" 
+  surname: "Stohr"
+  title: "Honorary Chair"
+  thumbnailUrl: Edward.jpg
+  honorarychair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Honorary Chair"}
+  social: 
+    - {name: "site", link: "https://web.stevens.edu/facultyprofile/?id=686"}
+- 
+  id: 1
+  name: "Akhil"
+  surname: "Kumar"
+  title: "Honorary Chair"
+  thumbnailUrl: Akhil.jpg
+  honorarychair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Honorary Chair"}
+  social: 
+    - {name: "site", link: "https://php.smeal.psu.edu/smeal/dirbio/displayBio.php?t_user_id=axk41"}
+- 
+  id: 0
+  name: "J. Leon"
+  surname: "Zhao"
+  title: "Conference Chair"
+  thumbnailUrl: jlzhao.jpg
+  conferencechair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Conference Chair"}
+  social: 
+    - {name: "site", link: "https://www.cb.cityu.edu.hk/staff/jlzhao/"}
+- 
+  id: 1
+  name: "Karl"
+  surname: "Lang"
+  title: "Conference Chair"
+  thumbnailUrl: Karl_Lang.jpg
+  conferencechair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Conference Chair"}
+  social: 
+    - {name: "site", link: "https://zicklin.baruch.cuny.edu/faculty-profile/karl-lang/"}
+- 
+  id: 0
+  name: "Jun"
+  surname: "Shen"
+  title: "Program Chair"
+  thumbnailUrl: jshen.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "https://www.uow.edu.au/~jshen/"}
+- 
+  id: 1
+  name: "Zhe (Jay)"
+  surname: "Shan"
+  title: "Program Chair"
+  thumbnailUrl: JayShan.jpg
+  programchair: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Program Chair"}
+  social: 
+    - {name: "site", link: "http://www.jayshanmis.net/"}
+- 
+  id: 0
+  name: "Lele"
+  surname: "Kang"
+  title: "Review Coordinator"
+  thumbnailUrl: kele.jpg
+  reviewcoordinator: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Review Coordinator"}
+  social: 
+    - {name: "site", link: "http://im.nju.edu.cn/eng/facstaffdetail?name=Lele%20KANG"}
+- 
+  id: 0
+  name: "Huaming"
+  surname: "Chen"
+  title: "Web Master"
+  thumbnailUrl: Huaming.jpg
+  webmaster: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}
+- 
+  id: 1
+  name: "Ruiyun"
+  surname: "Xu"
+  title: "Web Master"
+  thumbnailUrl: Ruiyun.jpg
+  webmaster: true
+  ribbon: 
+    - {abbr: "SIGBPS", title: "Web Master"}
+  social: 
+    - {name: "site", link: ""}

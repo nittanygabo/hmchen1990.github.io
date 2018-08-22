@@ -1,0 +1,4 @@
+- 
+  group: "With support of"
+  elements: 
+    - {name: "ICIS", description: "ICIS2018", link: "https://icis2018.aisconferences.org/", imageUrl: "ICIS2018.jpg", width: "200px"}

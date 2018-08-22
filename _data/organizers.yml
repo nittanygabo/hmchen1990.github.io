@@ -1,0 +1,4 @@
+- 
+  group: ""
+  elements: 
+    - {name: "SIGBPS", description: "", link: "http://sigbps.org/", imageUrl: "sigbps.svg", width: "200px"}
