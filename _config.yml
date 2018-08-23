@@ -15,7 +15,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt']
 
 # Site Settings
-title: "ICIS SIGBPS 2018"
+title: "Pre-ICIS SIGBPS 2018"
 email: "jayshanmis@gmail.com"
 description: "SIGBPS 2018 is a workshop on Blockchain and Smart Contract"
 baseurl: ""
@@ -57,10 +57,11 @@ navigationLinks:
 
 # Hero Block
 heroImage: "BG.jpg"
-heroTitle: "ICIS SIGBPS Workshop on <typeout> 2018"
+heroTitle1: "Pre-ICIS SIGBPS Workshop on"
+heroTitle2: "Blockchain and Smart Contract 2018"
 eventDate: "December 13, 2018"
-typeoutTextValues: '"", "Blockchain", "Smart Contract"'
-typeoutFallback: "Blockchain"
+#typeoutTextValues: '"", "Blockchain", "Smart Contract"'
+#typeoutFallback: "Blockchain"
 heroButtons:
  - {link: "https://easychair.org/conferences/?conf=sigbpsbps18bps ", text: "Submission"}
  
@@ -81,9 +82,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "San Francisco Marriott Marquis"
+eventLocationName: "Marriott Marquis"
 eventLocationLink: "https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/"
-eventStreetAddress: "780 Mission St, San Francisco"
+eventStreetAddress: "780 Mission St"
 eventAddressLocality: "San Francisco"
 eventAddressLocalityRegion: "California"
 eventPostalCode: "94103"
@@ -91,9 +92,9 @@ eventAddressCountry: "United States"
 eventStartTime: "2018-12-13T9:00"
 eventDoorTime: "08:00"
 eventEndTime: "2018-12-13T20:00"
-eventPlaceCoordinates: "37.7852, 122.4045"
-mapCenterCoordinates: "37.7852, 122.4045"
-mapMobileCenterCoordinates: "37.7852, 122.4045"
+eventPlaceCoordinates: "37.785405, -122.403516"
+mapCenterCoordinates: "37.785405, -122.403516"
+mapMobileCenterCoordinates: "37.785405, -122.403516"
 
 # Venue Block
 venueBlockTitle: "Venue"

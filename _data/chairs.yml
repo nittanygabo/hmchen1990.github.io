@@ -21,7 +21,7 @@
   social: 
     - {name: "site", link: "https://php.smeal.psu.edu/smeal/dirbio/displayBio.php?t_user_id=axk41"}
 - 
-  id: 0
+  id: 2
   name: "J. Leon"
   surname: "Zhao"
   title: "Conference Chair"
@@ -32,7 +32,7 @@
   social: 
     - {name: "site", link: "https://www.cb.cityu.edu.hk/staff/jlzhao/"}
 - 
-  id: 1
+  id: 3
   name: "Karl"
   surname: "Lang"
   title: "Conference Chair"
@@ -43,7 +43,7 @@
   social: 
     - {name: "site", link: "https://zicklin.baruch.cuny.edu/faculty-profile/karl-lang/"}
 - 
-  id: 0
+  id: 4
   name: "Jun"
   surname: "Shen"
   title: "Program Chair"
@@ -54,7 +54,7 @@
   social: 
     - {name: "site", link: "https://www.uow.edu.au/~jshen/"}
 - 
-  id: 1
+  id: 5
   name: "Zhe (Jay)"
   surname: "Shan"
   title: "Program Chair"
@@ -65,7 +65,7 @@
   social: 
     - {name: "site", link: "http://www.jayshanmis.net/"}
 - 
-  id: 0
+  id: 6
   name: "Lele"
   surname: "Kang"
   title: "Review Coordinator"
@@ -76,7 +76,7 @@
   social: 
     - {name: "site", link: "http://im.nju.edu.cn/eng/facstaffdetail?name=Lele%20KANG"}
 - 
-  id: 0
+  id: 7
   name: "Huaming"
   surname: "Chen"
   title: "Web Master"
@@ -85,9 +85,9 @@
   ribbon: 
     - {abbr: "SIGBPS", title: "Web Master"}
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "favorming.com"}
 - 
-  id: 1
+  id: 8
   name: "Ruiyun"
   surname: "Xu"
   title: "Web Master"

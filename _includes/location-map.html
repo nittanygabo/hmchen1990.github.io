@@ -9,16 +9,15 @@
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                        <li>
+                      <!--  <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
                             {% assign endTime = site.eventEndTime | split: "T" %}
                             <time>{{ endTime[1] }}</time>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
-                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
+                <a href="https://www.google.com/maps/dir//780+Mission+Street,+San+Francisco,+CA,+USA/@37.7849613,-122.4062022,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80858087b5ac5c97:0xfc92c432d33d20ca!2m2!1d-122.4040135!2d37.7849571" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
