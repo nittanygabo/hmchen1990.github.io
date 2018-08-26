@@ -69,7 +69,7 @@
   name: "Lele"
   surname: "Kang"
   title: "Review Coordinator"
-  thumbnailUrl: kele.jpg
+  thumbnailUrl: Kele.jpg
   reviewcoordinator: true
   ribbon: 
     - {abbr: "SIGBPS", title: "Review Coordinator"}
