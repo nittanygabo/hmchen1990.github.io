@@ -4,23 +4,19 @@
         <div class="col-lg-10 col-lg-offset-1">
             <div class="col-lg-offset-0 row text-center appear-animation-trigger">
                 {% for track in site.data.tracks %}
-                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
-                    <div class="lily-effect ribbon-activator">
+                <div class="effect-wrapper appear-animation col-lg-10 col-sm-6 col-xs-12">
                         <div class="lily-middle lily-effect">
                                 {% if site.showTracks %}
                                     <div class="text-left"><h8>Track {{track.id}}</h8></div>
-                                    <h6>{{ track.name }}</h6>
+                                    <h5>{{ track.name }}</h5>
                                 {% endif %}
-                        </div>
-                        <div class="text-center">
                                 <div class="text-left"><span><h7>Chair:</h7></span></div>
                                 <span>
                                     {% for c in track.chair%}
-                                    <div class="text-left col-lg-offset-1"><span><h6><a href={{c.link}}>{{c.name}}</a></h6></span></div>
+                                    <div class="text-left col-lg-offset-1"><span><h6><a href={{c.link}}>{{c.name}}, {{c.site}}</a></h6></span></div>
                                     {% endfor %}
                                 </span>
                         </div>
-                    </div>
                 </div>
                 {% endfor %}
             </div>    

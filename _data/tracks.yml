@@ -2,54 +2,54 @@
   id: 1
   name: "Integration of smart contracts in workflow systems"
   chair: 
-    - {name: "Georg Grossmann", link: "mailto:Georg.grossmann@unisa.edu.au"}
-    - {name: "Arthur Carvalho", link: "mailto:carvalag@miamioh.edu"}
+    - {name: "Georg Grossmann", site: "University of South Australia", link: "mailto:Georg.grossmann@unisa.edu.au"}
+    - {name: "Arthur Carvalho", site: "Miami University", link: "mailto:carvalag@miamioh.edu"}
 
 - 
   id: 2
   name: "Service science and engineering in blockchain ecosystems"
   chair:
-    - {name: "Jiaqi Yan", link: "mailto:jiaqiyan@nju.edu.cn"}
-    - {name: "Srikar Velichety", link: "mailto:svlchety@memphis.edu"}
+    - {name: "Jiaqi Yan", site: "Nanjing University", link: "mailto:jiaqiyan@nju.edu.cn"}
+    - {name: "Srikar Velichety", site: "The University of Memphis", link: "mailto:svlchety@memphis.edu"}
 
 - 
   id: 3
   name: "Blockchain enabled supply chain processes"
   chair: 
-    - {name: "Manlu Liu", link: "mailto:manluliu@saunders.rit.edu"}
-    - {name: "Benquan Yu", link: "mailto:benquan.ybq@antfin.com"}
+    - {name: "Manlu Liu", site: "Rochester Institute of Technology", link: "mailto:manluliu@saunders.rit.edu"}
+    - {name: "Benquan Yu", site: "Ant Financial", link: "mailto:benquan.ybq@antfin.com"}
 
 - 
   id: 4
   name: "Innovative Blockchain Applications in industry"
   chair: 
-    - {name: "Hemang Subramanian", link: "mailto:hsubrama@fiu.edu"}
-    - {name: "Emily Liu", link: "mailto:rliu20@stevens.edu"}
+    - {name: "Hemang Subramanian", site: "Florida International University", link: "mailto:hsubrama@fiu.edu"}
+    - {name: "Emily Liu", site: "Stevens Institute of Technology", link: "mailto:rliu20@stevens.edu"}
 
 - 
   id: 5
-  name: "Business Process Intelligence                 "
+  name: "Business Process Intelligence"
   chair: 
-    - {name: "Shaokun Fan", link: "mailto:shaokun.fan@oregonstate.edu"}
-    - {name: "Marcello La Rosa", link: "mailto:Marcello.larosa@unimelb.edu.au"}
+    - {name: "Shaokun Fan", site: "Oregon State University", link: "mailto:shaokun.fan@oregonstate.edu"}
+    - {name: "Marcello La Rosa", site: "The University of Melbourne", link: "mailto:Marcello.larosa@unimelb.edu.au"}
 
 - 
   id: 6
   name: "Business Process Innovation and Transformation"
   chair: 
-    - {name: "Andre Ludwig", link: "mailto:andre.ludwig@the-klu.org"}
-    - {name: "Dan Ke", link: "mailto:dkeuconn@gmail.com"}
+    - {name: "Andre Ludwig", site: "The Kühne Logistics University", link: "mailto:andre.ludwig@the-klu.org"}
+    - {name: "Dan Ke", site: "Wuhan University", link: "mailto:dkeuconn@gmail.com"}
 
 - 
   id: 7
   name: "E-Business Service Management"
   chair: 
-    - {name: "Zach Zhizhong Zhou", link: "mailto:zhouzhzh@sjtu.edu.cn"}
-    - {name: "Honglei Li", link: "mailto:honglei.li@northumbria.ac.uk"}
+    - {name: "Zach Zhizhong Zhou", site: "Shanghai Jiaotong University", link: "mailto:zhouzhzh@sjtu.edu.cn"}
+    - {name: "Honglei Li", site: "Northumbria University", link: "mailto:honglei.li@northumbria.ac.uk"}
 
 - 
   id: 8
   name: "Intelligent Service Systems and Technologies"
   chair: 
-    - {name: "Daning Hu", link: "mailto:hdaning@ifi.uzh.ch"}
-    - {name: "Noyan Ilk", link: "mailto:nilk@business.fsu.edu"}
+    - {name: "Daning Hu", site: "University of Zurich", link: "mailto:hdaning@ifi.uzh.ch"}
+    - {name: "Noyan Ilk", site: "Florida State University", link: "mailto:nilk@business.fsu.edu"}
