@@ -62,7 +62,7 @@ eventDate: "December 13, 2018"
 #typeoutTextValues: '"", "Blockchain", "Smart Contract"'
 #typeoutFallback: "Blockchain"
 heroButtons:
- - {link: "easychair.org/bps18", text: "Submission"}
+ - {link: "https://easychair.org/conferences/?conf=bps18", text: "Submission"}
  
 # About Block
 aboutTitle: "About ICIS-SIGBPS"
