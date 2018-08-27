@@ -115,7 +115,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://icis2018.aisconferences.org/", text: "ICIS 2018"}
-   - {link: "http://sigbps.org/", text: "SIGBPS 2018"}
+   - {link: "https://2018.sigbps.org/", text: "SIGBPS 2018"}
  -
   title: "Contacts"
   links:
